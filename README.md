@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
