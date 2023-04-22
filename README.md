@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Auto-format by https://ultralytics.com/actions
