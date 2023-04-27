@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
