@@ -1,1 +1,1 @@
-example Google Colab
+Update pyproject.toml and Docs (#7274)
