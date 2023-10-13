@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Pass callbacks to validator (#7320)
