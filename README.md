@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add HUB-SDK Docs reference section (#7781)
