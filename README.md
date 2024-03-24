@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
