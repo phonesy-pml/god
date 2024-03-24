@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
