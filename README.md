@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
