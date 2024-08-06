@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Fix ONNX GPU inference bug (#6840)
