@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Improve Coral Edge TPU guide (#8160)
