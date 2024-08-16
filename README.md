@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
