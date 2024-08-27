@@ -1,1 +1,1 @@
-add yolov10
+Move Google Drive to slow tests (#8163)
