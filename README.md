@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add integrations/gradio Docs page (#7935)
